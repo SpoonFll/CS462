@@ -1,0 +1,6 @@
+[submodule "funnyLoader"]
+	path = funnyLoader
+	url = .\\funnyLoader\\.git\\
+[submodule "httpServer"]
+	path = httpServer
+	url = .\\httpServer\\.git\\
